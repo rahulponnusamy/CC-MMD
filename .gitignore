@@ -1,0 +1,16 @@
+/.venv
+/venv
+/wandb
+__pycache__/
+*.pyc
+
+# Model files and training outputs
+*.pth
+trained_model/
+# predictions/
+# results/
+
+# Large files
+*.bin
+*.safetensors
+*.ckpt
